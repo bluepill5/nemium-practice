@@ -1,0 +1,16 @@
+
+:root { 
+  --white: #ffffff; 
+  --grey: #808080; 
+  --black: #212429; 
+  --yellow: #FEC62E;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  background-color: var(--yellow);
+  color: var(--black);
+}
